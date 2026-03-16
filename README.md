@@ -214,10 +214,11 @@ government digitization and e-governance initiatives.
 **Event:** Smart India Hackathon (SIH)
 
 **Team Members:**
+- Preetham Krishna
 - Vaishak D Karkera  
 - Ashwin Suresh  
 - Neha Raj
-- Preetham Krishna  
+  
 
 **Role:**  
 System Design, Hardware Development, Firmware, Web Interfaces, and Backend Integration
